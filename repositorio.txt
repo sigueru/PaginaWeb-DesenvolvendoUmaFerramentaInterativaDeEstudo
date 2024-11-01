@@ -1,0 +1,9 @@
+
+Essa aula foi bem completa e abordou passos essenciais para publicar projetos diretamente pelo GitHub. Você aprendeu a:
+
+Acessar o Repositório: Entrar no repositório do projeto na plataforma GitHub.
+Navegar pelas Configurações: Explorar a seção "Settings" do repositório para acessar as opções de publicação.
+Utilizar o GitHub Pages: Conhecer o GitHub Pages, que permite publicar sites a partir de repositórios no GitHub.
+Configurar a Fonte de Publicação: Definir a branch "main" como fonte para publicação do site.
+Verificar o Site Publicado: Conferir o projeto online, acessível para o público.
+Essas etapas são fundamentais para quem quer aprender a publicar conteúdos na web utilizando o GitHub!
